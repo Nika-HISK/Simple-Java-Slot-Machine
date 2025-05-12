@@ -28,11 +28,18 @@ Spin the slots with 🍒, 🍉, 🍋, 💧, and ⭐ — each symbol comes with d
 
 ```bash
 git clone https://github.com/Nika-HISK/Simple-Java-Slot-Machine.git
+```
+### 2. Navigate to the Source Directory
+```
 cd src
 ```
-## Compile the Program
+### 3. Compile the Program
+```
+javac Main.java
+```
+### 4. Run the Program
 ```bash
-java Main.java
+java Main
 ```
 
 ## 💸 Payout Rules
