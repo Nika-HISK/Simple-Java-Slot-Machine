@@ -1,4 +1,4 @@
-# 🎰 Hisoka Slots
+# Hisoka Slots
 
 Welcome to **Hisoka Slots**, a simple and fun console-based slot machine game written in Java!
 
@@ -6,7 +6,7 @@ Spin the slots with 🍒, 🍉, 🍋, 💧, and ⭐ — each symbol comes with d
 
 ---
 
-## 🕹️ Features
+##  Features
 
 - Console-based slot machine game
 - 5 unique symbols: 🍒, 🍉, 🍋, 💧, ⭐
@@ -15,7 +15,7 @@ Spin the slots with 🍒, 🍉, 🍋, 💧, and ⭐ — each symbol comes with d
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Java 8 or higher
 - Terminal or an IDE (IntelliJ, Eclipse, VS Code, etc.)
