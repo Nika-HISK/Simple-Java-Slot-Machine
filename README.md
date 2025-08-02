@@ -22,7 +22,7 @@ Spin the slots with 🍒, 🍉, 🍋, 💧, and ⭐ — each symbol comes with d
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone or Download the Project
 
@@ -42,13 +42,13 @@ javac Main.java
 java Main
 ```
 
-## 💸 Payout Rules
+## Payout Rules
 | Match Type            | 🍒 | 🍉 | 🍋 | 💧  | ⭐   |
 | --------------------- | -- | -- | -- | --- | --- |
 | 3 matching symbols    | x3 | x4 | x5 | x10 | x20 |
 | 2 consecutive symbols | x2 | x3 | x4 | x5  | x10 |
 
-## 📷 Sample Output
+## Sample Output
 ```
 *******************************
   Welcome to my Hisoka Slots
